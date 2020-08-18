@@ -1,0 +1,22 @@
+
+.bkg-img{
+    background-image: url('../img/main_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mce_inline_error{
+    color: red;
+}
+
+input::placeholder{
+    color: black;
+}
+
+#mce-error-response{
+    color: red;
+}
+
+#mce-success-response{
+    color: green;
+}
